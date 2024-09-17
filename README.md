@@ -1,2 +1,1 @@
-# lending2
-Website for buying apartments
+[Demo link](https://ederika.github.io/lending2/)
